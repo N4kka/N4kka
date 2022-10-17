@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Nicola Sarli and I'm 21 y/o
+- 👀 I’m interested in coding and learning how to improve me individually e professionally
+- 🌱 I’m currently learning many new skills like new programming languages as C and pursuing a computer science degree
+- 💞️ I’m looking to collaborate on some interesting open source projects and any opportunities to grow as a software engineer
+- 📫 How to reach me:
+-                     Linkedin: https://www.linkedin.com/in/nicola-sarli-637a02211/
+-                     Github: https://github.com/N4kka
