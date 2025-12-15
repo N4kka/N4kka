@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicola Sarli and I'm 22 y/o
+- 👋 Hi, I’m Nicola Sarli and I'm 24 y/o
 - 👀 I’m interested in coding and learning how to improve me individually e professionally
 - 🌱 I’m currently learning many new skills like new programming languages as Swift and iOS Development and pursuing a computer science degree
 - 💞️ I’m looking to collaborate on some interesting open source projects and any opportunities to grow as a software engineer
